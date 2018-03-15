@@ -242,5 +242,4 @@ INSERT INTO city (cityName,areaID)
 VALUES ('Yehud',3); 
 
 INSERT INTO city (cityName,areaID) 
-VALUES ('Yokneam',); 
-
+VALUES ('Yokneam',4); 

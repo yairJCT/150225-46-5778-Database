@@ -354,4 +354,3 @@ VALUES (556904532,'Avi Bouzaglo',581662917,'0534819405',NULL,'Afula');
 
 INSERT INTO client (clientID,clientName,agentID,phoneNr,Address,cityName) 
 VALUES (557624632,'Zalman BarAsher',607968105,'0537641907',NULL,'Arad'); 
-
