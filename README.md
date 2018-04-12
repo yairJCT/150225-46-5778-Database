@@ -12,3 +12,6 @@ agent.sql
 client.sql
 schedule.sql
  
+
+
+[![Join the chat at https://gitter.im/150225-46-5778-Hotels-Database/Lobby](https://badges.gitter.im/150225-46-5778-Hotels-Database/Lobby.svg)](https://gitter.im/150225-46-5778-Hotels-Database/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
